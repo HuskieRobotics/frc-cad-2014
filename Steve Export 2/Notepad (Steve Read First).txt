@@ -1,3 +1,22 @@
 0.125 aluminum
 
 4 x
+
+Bracket - 4
+Gusset 3 (L-L) (Bend) - 1 quantity
+Gusset 3 (L-R) (Bend) - 1 quantity
+Gusset 3 (R-L) (Bend) - 1 quantity
+Gusset 3 (R-R) (Bend) - 1 quantity
+Hex Spacer - 8 quantity
+Hex Spacer 1-2 - 8 quantity
+Pneumatic Piston Back Flange (Right) (Bend) - 1
+Pneumatic Piston Back Flange (Rt) (Bend) - 1
+Pneumatic Piston Front Flange (Lt) (Bend) - 1 quantity
+Pneumatic Piston Front Flange (Rt) (Bend) - 1 quantity
+Side Mount (Custom) - 1 quantity
+Bumper Mounts - 
+Roller Crossbar Gusset - 4 quantity
+Roller Pneumatic Back Connector - 2 quantity
+Spacer 2 - 6 quantity
+Spacer 2 (New Collector Mount) - 1 quantity
+Vex Pro 90 degree Gusset - 2 quantity
