@@ -1,8 +1,9 @@
 0.125 aluminum
 
-4 x
-
-Bracket - 4
+Ramp - 2 quantity
+T-gusset - 3 quantity
+Pnematics Plate - Shooter - 2 quantity
+Bracket - 4 quantity
 Gusset 3 (L-L) (Bend) - 1 quantity
 Gusset 3 (L-R) (Bend) - 1 quantity
 Gusset 3 (R-L) (Bend) - 1 quantity
