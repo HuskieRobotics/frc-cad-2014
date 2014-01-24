@@ -1,4 +1,17 @@
-0.125 aluminum
+
+Hi steve!
+
+Hopefully the last big export of the year. There might be a few solitary parts after this in case something goes wrong, but this is the rest of the robot as designed.
+
+All parts 0.125 aluminum
+
+Parts with bends have PDFs and are marked with (bend) in the part name
+ignore any other parentheses- these are for our internal part naming systems.
+.IDW files are also for our own internal uses- you can ignore these.
+
+Just as a heads up, Some of the parts have very similar names and look very similar, but are in fact different.
+All bends should be indicated with our normal cuts on the side of the bendline. 
+
 
 Ramp - 2 quantity
 T-gusset - 3 quantity
@@ -15,9 +28,14 @@ Pneumatic Piston Back Flange (Rt) (Bend) - 1
 Pneumatic Piston Front Flange (Lt) (Bend) - 1 quantity
 Pneumatic Piston Front Flange (Rt) (Bend) - 1 quantity
 Side Mount (Custom) - 1 quantity
-Bumper Mounts - 
+Bumper Mounts - 8 quantity
 Roller Crossbar Gusset - 4 quantity
 Roller Pneumatic Back Connector - 2 quantity
 Spacer 2 - 6 quantity
 Spacer 2 (New Collector Mount) - 1 quantity
 Vex Pro 90 degree Gusset - 2 quantity
+
+
+As always, thanks a million. We couldn't do this without you.
+
+-Arpan
