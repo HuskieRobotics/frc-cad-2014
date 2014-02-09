@@ -13,27 +13,27 @@ Just as a heads up, Some of the parts have very similar names and look very simi
 All bends should be indicated with our normal cuts on the side of the bendline. 
 
 
-Ramp - 2 quantity
-T-gusset - 3 quantity
-Pnematics Plate - Shooter - 2 quantity
-Bracket - 4 quantity
-Gusset 3 (L-L) (Bend) - 1 quantity
-Gusset 3 (L-R) (Bend) - 1 quantity
-Gusset 3 (R-L) (Bend) - 1 quantity
-Gusset 3 (R-R) (Bend) - 1 quantity
-Hex Spacer - 8 quantity
-Hex Spacer 1-2 - 8 quantity
-Pneumatic Piston Back Flange (Right) (Bend) - 1
-Pneumatic Piston Back Flange (Rt) (Bend) - 1
-Pneumatic Piston Front Flange (Lt) (Bend) - 1 quantity
-Pneumatic Piston Front Flange (Rt) (Bend) - 1 quantity
-Side Mount (Custom) - 1 quantity
-Bumper Mounts - 8 quantity
-Roller Crossbar Gusset - 4 quantity
-Roller Pneumatic Back Connector - 2 quantity
-Spacer 2 - 6 quantity
-Spacer 2 (New Collector Mount) - 1 quantity
-Vex Pro 90 degree Gusset - 4 quantity
+√ Ramp - 2 quantity
+√ T-gusset - 3 quantity
+√ Pnematics Plate - Shooter - 2 quantity
+√ Bracket - 4 quantity
+√ Gusset 3 (L-L) (Bend) - 1 quantity
+√ Gusset 3 (L-R) (Bend) - 1 quantity
+√ Gusset 3 (R-L) (Bend) - 1 quantity
+√ usset 3 (R-R) (Bend) - 1 quantity
+√ Hex Spacer - 8 quantity
+√ Hex Spacer 1-2 - 8 quantity
+√ Pneumatic Piston Back Flange (Right) (Bend) - 1
+√ Pneumatic Piston Back Flange (Rt) (Bend) - 1
+√ Pneumatic Piston Front Flange (Lt) (Bend) - 1 quantity
+√ Pneumatic Piston Front Flange (Rt) (Bend) - 1 quantity
+√ Side Mount (Custom) - 1 quantity
+√ Bumper Mounts - 8 quantity (4!!!)
+√ Roller Crossbar Gusset - 4 quantity
+√ Roller Pneumatic Back Connector - 2 quantity
+√ Spacer 2 - 6 quantity
+√ Spacer 2 (New Collector Mount) - 1 quantity
+√ Vex Pro 90 degree Gusset - 6 quantity
 
 
 As always, thanks a million. We couldn't do this without you.
