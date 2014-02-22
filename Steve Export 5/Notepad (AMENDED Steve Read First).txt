@@ -15,13 +15,13 @@ Hex Spacer - 8 quantity
 Hex Spacer 1-2 - 8 quantity
 Pneumatic Piston Back Flange (Right) (Bend) - 1
 Pneumatic Piston Back Flange (Rt) (Bend) - 1
-Pneumatic Piston Front Flange (Lt) (Bend) - 1 quantity
-Pneumatic Piston Front Flange (Rt) (Bend) - 1 quantity
 Side Mount (Custom) - 1 quantity
 Roller Crossbar Gusset - 4 quantity
 Roller Pneumatic Back Connector - 2 quantity
 Vex Pro 90 degree Gusset - 28 quantity
 Hex Shaft Connector (Lexan) - 8 quantity
+Clamp Piston Left Mount (BEND) - 3 quantity
+Clamp Piston Right Mount (BEND) - 3 quantity
 
 
 Polycarbonate Pieces
