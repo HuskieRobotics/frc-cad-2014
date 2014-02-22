@@ -1,0 +1,32 @@
+﻿Hi steve!
+
+All parts that are immediately below should be cut out of .125" aluminum. The ones offset from the bunch just below are meant to be cut out of .0625 inch polycarbonate.
+
+Parts with bends have PDFs and are marked with (bend) in the part name
+ignore any other parentheses- these are for our internal part naming systems.
+.IDW files are also for our own internal uses- you can ignore these.
+
+Just as a heads up, Some of the parts have very similar names and look very similar, but are in fact different.
+All bends should be indicated with our normal cuts on the side of the bendline. 
+
+
+Bracket - 4 quantity
+Hex Spacer - 8 quantity
+Hex Spacer 1-2 - 8 quantity
+Pneumatic Piston Back Flange (Right) (Bend) - 1
+Pneumatic Piston Back Flange (Rt) (Bend) - 1
+Pneumatic Piston Front Flange (Lt) (Bend) - 1 quantity
+Pneumatic Piston Front Flange (Rt) (Bend) - 1 quantity
+Side Mount (Custom) - 1 quantity
+Roller Crossbar Gusset - 4 quantity
+Roller Pneumatic Back Connector - 2 quantity
+Vex Pro 90 degree Gusset - 28 quantity
+Hex Shaft Connector (Lexan) - 8 quantity
+
+
+Polycarbonate Pieces
+Lexan flexible Arm Mount - 6 quantity
+Pneumatic Piston Front Flange (Rt Custom) - 3 quantity
+
+
+Once again, thank you so much for everything.
