@@ -1,4 +1,4 @@
-﻿Hi steve!
+﻿Hi Steve!
 
 All parts that are immediately below should be cut out of .125" aluminum. The ones offset from the bunch just below are meant to be cut out of .0625 inch polycarbonate.
 
@@ -11,22 +11,22 @@ All bends should be indicated with our normal cuts on the side of the bendline.
 
 
 Bracket - 4 quantity
-Hex Spacer - 8 quantity
-Hex Spacer 1-2 - 8 quantity
+Hex Spacer - 10 quantity
+Hex Spacer 1-2 - 4 quantity
 Pneumatic Piston Back Flange (Right) (Bend) - 1
 Pneumatic Piston Back Flange (Rt) (Bend) - 1
 Side Mount (Custom) - 1 quantity
 Roller Crossbar Gusset - 4 quantity
-Roller Pneumatic Back Connector - 2 quantity
+Roller Pneumatic Back Connector - 3 quantity
 Vex Pro 90 degree Gusset - 28 quantity
-Hex Shaft Connector (Lexan) - 8 quantity
-Clamp Piston Left Mount (BEND) - 3 quantity
-Clamp Piston Right Mount (BEND) - 3 quantity
+Hex Shaft Connector (Lexan) - 4 quantity ***Note this is not actually made of Lexan, but of 1/8" Aluminum plate. Its name merely refers to its proximity to a Lexan part. I apologize for any confusion.
+Clamp Piston Left Mount (BEND) - 4 quantity
+Clamp Piston Right Mount (BEND) - 4 quantity
 
 
 Polycarbonate Pieces
-Lexan flexible Arm Mount - 6 quantity
-Pneumatic Piston Front Flange (Rt Custom) - 3 quantity
+Lexan flexible Arm Mount - 12 quantity
+Pneumatic Piston Front Flange (Rt Custom) - 5 quantity
 
 
 Once again, thank you so much for everything.
