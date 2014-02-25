@@ -1,6 +1,6 @@
 ﻿Hi Steve!
 
-All parts that are immediately below should be cut out of .125" aluminum. The ones offset from the bunch just below are meant to be cut out of .0625 inch polycarbonate.
+All parts that are immediately below should be cut out of .125" aluminum. The ones offset from the bunch just below are meant to be cut out of .125" polycarbonate.
 
 Parts with bends have PDFs and are marked with (bend) in the part name
 ignore any other parentheses- these are for our internal part naming systems.
