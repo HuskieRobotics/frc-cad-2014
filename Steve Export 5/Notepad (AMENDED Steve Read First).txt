@@ -19,9 +19,7 @@ Side Mount (Custom) - 1 quantity
 Roller Crossbar Gusset - 4 quantity
 Roller Pneumatic Back Connector - 3 quantity
 Vex Pro 90 degree Gusset - 28 quantity
-Hex Shaft Connector (Lexan) - 8 quantity ***Note this is not actually made of Lexan, but of 1/8" Aluminum plate. Its name merely refers to its proximity to a Lexan part. I apologize for any confusion.
-Clamp Piston Left Mount (BEND) - 4 quantity
-Clamp Piston Right Mount (BEND) - 4 quantity
+Hex Shaft Connector Pivot - 4 quantity 
 
 
 Polycarbonate Pieces
