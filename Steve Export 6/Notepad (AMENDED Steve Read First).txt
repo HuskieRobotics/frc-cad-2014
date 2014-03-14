@@ -5,6 +5,7 @@ Hopefully these are the last parts we need. Each piece is made of a different ma
 
 Aluminum - 0.125" Thick
 Hex Shaft Connector Pivot X 5
+Ramp x 4
 
 
 Polycarbonate - 0.125" Thick
